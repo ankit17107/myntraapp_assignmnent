@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Import;
 @Import(ServiceConfiguration.class)
 public class MyntaApiApplication {
 	public static void main(String[] args) {
+
 		SpringApplication.run(MyntaApiApplication.class, args);
 	}
 }
