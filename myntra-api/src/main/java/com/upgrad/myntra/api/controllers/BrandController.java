@@ -48,6 +48,8 @@ import java.util.UUID;
 	 * @throws BrandNotFoundException
 	 */
 
+
+	
 	/**
 	 * A controller method to get all Brand by a category from the database.
 	 *
